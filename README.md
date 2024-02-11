@@ -90,4 +90,5 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 
 <br> 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yawer-atique/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yawer-atique/)
+
