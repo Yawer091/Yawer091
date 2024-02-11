@@ -85,9 +85,8 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 
 
- <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Yawer Atique Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Yawer091&theme=react-dark&hide_border=true" /></a>
-
+<h2 align="left">⚡Activity Graph:</h2>
+<a href="https://github.com/Yawer091"><img alt="Yawer Atique Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Yawer091&theme=react-dark&hide_border=true" /></a>
 
 <br> 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yawer-atique/)
