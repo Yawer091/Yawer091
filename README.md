@@ -25,7 +25,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 - 💬 Open for your suggestions
 
--  My Portfolio <a href="https://yawer091.github.io/" target="_target">Portfolio</a>
+-  My Portfolio *https://Yawer091.github.io/*
  
 - 📄 Download my <a href="https://drive.google.com/file/d/1cduNGFKZv7F1rXmPfZB9vFqJayuhNrVV/view?usp=sharing" target="_target">Resume</a>
 
